@@ -4,7 +4,7 @@
 </div>
 
 ### Languages and tools
-<div id="languages" align="center">
+<div id="languages" align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgres" width="40" height="40"/>&nbsp;
@@ -18,7 +18,7 @@
 </div>
 
 ### My stat
-<div id="stat" align="center">
+<div id="stat" align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikuz57&theme=2077"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikuz57&theme=2077"/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikuz57&theme=2077"/>

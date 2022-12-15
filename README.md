@@ -3,6 +3,17 @@
 	<h3>Python backend Developer</h3>
 </div>
 
+<div id="socials" align="center">
+	<a href="https://t.me/ikleizi">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
+
+### About me
+- 🌱 I’m currently learning **Python, backend**
+- 📫 Reach me by [telegram](https://t.me/ikleizi), [email](mailto:ikuz57@gmail.com)
+- 🌍 I speak English, a little bit
+
 ### Languages and tools
 <div id="languages" align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;

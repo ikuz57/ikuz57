@@ -29,7 +29,8 @@
 
 ### My codewars
 <div id="stat" align="left">
-[![codewars]([https://www.codewars.com/users/klei_izi/badges/large](https://www.codewars.com/users/kLei_izi/badges/large))](https://www.codewars.com/users/klei_izi)]
+	[![codewars](https://www.codewars.com/users/kLei_izi/badges/large)](https://www.codewars.com/users/kLei_izi) 
+
 </div>
 ### My stat
 <div id="stat" align="left">

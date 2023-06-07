@@ -29,9 +29,8 @@
 
 ### My codewars
 <div id="stat" align="left">
-[![codewars](https://www.codewars.com/users/klei_izi/badges/large)](https://www.codewars.com/users/klei_izi)]
+[![codewars]([https://www.codewars.com/users/klei_izi/badges/large](https://www.codewars.com/users/kLei_izi/badges/large))](https://www.codewars.com/users/klei_izi)]
 </div>
-
 ### My stat
 <div id="stat" align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikuz57&theme=moonlight"/>

@@ -33,3 +33,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikuz57&theme=moonlight"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikuz57&theme=moonlight"/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikuz57)](https://github.com/ikuz57/github-readme-stats)

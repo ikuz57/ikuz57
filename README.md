@@ -27,11 +27,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 </div>
 
-### My codewars
-<div id="stat" align="left">
-	[![codewars](https://www.codewars.com/users/kLei_izi/badges/large)](https://www.codewars.com/users/kLei_izi) 
-
-</div>
 ### My stat
 <div id="stat" align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikuz57&theme=moonlight"/>

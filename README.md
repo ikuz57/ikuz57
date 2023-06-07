@@ -25,7 +25,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uwsgi/uwsgi-original.svg" title="uwsgi" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
-          
+</div>
+
+### My codewars
+<div id="stat" align="left">
+[![codewars](https://www.codewars.com/users/klei_izi/badges/large)](https://www.codewars.com/users/klei_izi)
 </div>
 
 ### My stat

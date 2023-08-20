@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Python, backend**
 - 📫 Reach me by [telegram](https://t.me/ikleizi), [email](mailto:ikuz57@gmail.com)
-- 🌍 I speak English, a little bit
 
 <br>
 
